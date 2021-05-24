@@ -1,2 +1,2 @@
 # C-practice
-Practice code I made for a school assignment 
+Practice code I made for a school assignment.
